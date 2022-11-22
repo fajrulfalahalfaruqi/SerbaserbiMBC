@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "serbaserbimbc",
+  "description": "repo untuk tugas mbc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhandhafi/SerbaserbiMBC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhandhafi/SerbaserbiMBC/issues"
+  },
+  "homepage": "https://github.com/rayhandhafi/SerbaserbiMBC#readme"
+}
